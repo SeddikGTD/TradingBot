@@ -1,2 +1,4 @@
 ccxt
+pandas==2.2.2
 pandas_ta
+numba<0.60.0
